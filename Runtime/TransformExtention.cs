@@ -12,7 +12,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
-namespace Kebab.Extentions.TransformExtention
+namespace Kebab.Extentions
 {
 	public static class TransformExtention
 	{
